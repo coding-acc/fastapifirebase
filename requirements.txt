@@ -1,4 +1,3 @@
 Fastapi
 uvicorn[standard]
-pymongo
 firebase_admin
